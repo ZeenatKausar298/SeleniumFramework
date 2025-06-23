@@ -18,6 +18,8 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
+        System.out.println( "Hello World 23jh" );
+        System.out.println( "Hello World 27jh" );
         ApplicationContext context = new ClassPathXmlApplicationContext("ormConfig.xml");
         CakeDao cakeDao= context.getBean("cakeDao", CakeDao.class);
         /*Cake cake = new Cake(1, "Death By Chocolate Cake", 500, "Chocolate");
