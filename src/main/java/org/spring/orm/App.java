@@ -108,7 +108,7 @@ public class App
             			
             	}
         	} catch(Exception e) {
-        		System.out.println("Invalid input, please enter a valid input");
+        		System.out.println("Invalid input, please enter a valid input which makes sense");
         		System.out.println(e.getMessage());
         	}
         	
