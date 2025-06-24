@@ -32,7 +32,7 @@ public class App
         	System.out.println("Enter 1 for inserting data");
         	System.out.println("Enter 2 for getting a single data");
         	System.out.println("Enter 3 for getting all cakes");
-        	System.out.println("Enter 4 for updating a cake data");
+        	System.out.println("Enter 4 for updating a single cake data");
         	System.out.println("Enter 5 for deleting data");
         	System.out.println("Enter 6 for to exit");
         	
